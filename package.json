@@ -1,0 +1,23 @@
+{
+  "name": "bamazon_node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrtender3/Bamazon_Node_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahrtender3/Bamazon_Node_App/issues"
+  },
+  "homepage": "https://github.com/bahrtender3/Bamazon_Node_App#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "mysql": "^2.14.1"
+  }
+}
